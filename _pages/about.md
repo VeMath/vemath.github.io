@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD candidate in Computational Mathematics at Fudan University, supervised by [Prof. Jin Cheng](https://scholar.google.com/citations?user=4NV9MPcAAAAJ). Currently, I am a visiting doctoral researcher at the Fields Institute for Research in Mathematical Sciences, working as a [research assistant](https://www.madslab.ca/author/xinyue-luo/) under the supervision of [Prof. Huaxiong Huang](https://scholar.google.com/citations?user=XwTQxgUAAAAJ). My research focuses on inverse problems, parameter estimation, and high performance computing. I have experience in mathematical modeling, scientific computing, and machine learning applications in data-driven science.
+I am a PhD candidate in Computational Mathematics at Fudan University, supervised by [Prof. Jin Cheng](https://scholar.google.com/citations?user=4NV9MPcAAAAJ). Currently, I am visiting the Fields Institute for Research in Mathematical Sciences, working as a [research assistant](https://www.madslab.ca/author/xinyue-luo/) under the supervision of [Prof. Huaxiong Huang](https://scholar.google.com/citations?user=XwTQxgUAAAAJ). My research focuses on inverse problems, parameter estimation, and high performance computing. I have experiences in mathematical modeling, scientific computing, and machine learning applications in data-driven science.
 
 # 🔭 Research Area
 - **Inverse Problems**: Parameter Estimation, Pattern Recognition
