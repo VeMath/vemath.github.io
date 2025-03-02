@@ -48,7 +48,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 
 # 💬 Conferences  
 - **Rethink Compression: Learn Mechanism from Data**, June 2024  
-  - *2024 International Conference on Inverse Problems Theory & Computation – Poster Session*  
+  - *International Conference on Inverse Problems Theory & Computation – Poster Session*  
 - **A Mechanism-based Method for Image Inpainting**, Apr 2024  
   - *Joint Fudan - RICAM Seminar on Inverse Problems – Oral Presentation*  
 - **Parameter Identification of Reaction-Diffusion Systems**, Oct 2023  
