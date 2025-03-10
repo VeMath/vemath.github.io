@@ -48,7 +48,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 
 - Hanshuang Pan, Niao Shao, Yue Yan, **Xinyue Luo**, Shufen Wang, Lin Ye, Jin Cheng, Wenbin Chen. Multi‐Chain Fudan‐CCDC Model for COVID‐19: A Revisit to Singapore’s Case. *Quantitative Biology*, 2020.  
 
-# 💬 Conference  
+# 💬 Conferences
 - **Rethink Compression: Learn Mechanism from Data**, June 2024  
   - *International Conference on Inverse Problems Theory & Computation – Poster Session*  
 - **A Mechanism-based Method for Image Inpainting**, Apr 2024  
