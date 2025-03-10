@@ -32,6 +32,8 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 
 
 # 📝 Publications 
+- **Xinyue Luo**, Xuzhe Qian, Yu Chen, Huaxiong Huang, Jin Cheng. Reconstructing Dynamics from Steady Spatial Patterns with Partial Observations. *International Conference on Learning Representations(ICLR) Workshop XAI4Science*, 2025.
+
 - **Xinyue Luo**, Jin Cheng, Yu Chen. MeLLoC: Lossless Compression with High-order Mechanism Learning. *Conference on Neural Information Processing Systems(NeurIPS)*, 2024.  
 
 - **Xinyue Luo**, Yu Chen, Jin Cheng, Zhaoyi Sun. A Mechanism-Based Method for Image Inpainting. *Applied Mathematics Letters*, 2024.  
