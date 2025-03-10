@@ -61,10 +61,6 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
   - *Complex Systems Science and Applications – Poster Session*  
 
 
-# 💻 Internship  
-- *2022.03 - 2024.03*, MATLAB Ambassador, MathWorks. 
-- *2021.03 - 2021.06*, NLP Research Intern, Ping An Technology.
-
 # 🎖 Honors and Awards
 - **Scholar Award**, Conference on Neural Information Processing Systems (NeurIPS), 2024  
 - **Best Poster Award**, Complex Systems Science and Applications, 2023  
@@ -72,6 +68,12 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 - **First Prize**, National MathorCup Mathematical Modeling Challenge, 2020  
 - **Second Prize**, National Mathematical Modeling Competition, 2018 & 2019  
 
+
+# 💻 Internship  
+- *2022.03 - 2024.03*, MATLAB Ambassador, MathWorks. 
+- *2021.03 - 2021.06*, NLP Research Intern, Ping An Technology.
+
+  
 # 🏅 Scholarships  
 - **National Scholarship** (Top 0.2%), 2024  
 - **Lu Zonglin Scholarship** (Top 5 University-wide), 2023  
