@@ -25,7 +25,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 - **AI for Science**: Equation Discovery, Dynamic Identification
 - **High Performance Computing**: Data Compression
 
-# 🎓 Education
+# 🎓 Educations
 - *2021.09 - 2026.06*, Ph.D. in Computational Mathematics, Fudan University, Shanghai, China.
 - *2024.05 - 2025.05*, Joint Doctoral Programme, The Fields Institute for Research in Mathematical Sciences, Toronto, Canada.
 - *2017.09 - 2021.06*, B.Sc. in Financial Mathematics, Shanghai University of Finance and Economics, Shanghai, China.
@@ -48,7 +48,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 
 - Hanshuang Pan, Niao Shao, Yue Yan, **Xinyue Luo**, Shufen Wang, Lin Ye, Jin Cheng, Wenbin Chen. Multi‐Chain Fudan‐CCDC Model for COVID‐19: A Revisit to Singapore’s Case. *Quantitative Biology*, 2020.  
 
-# 💬 Conferences  
+# 💬 Conference  
 - **Rethink Compression: Learn Mechanism from Data**, June 2024  
   - *International Conference on Inverse Problems Theory & Computation – Poster Session*  
 - **A Mechanism-based Method for Image Inpainting**, Apr 2024  
@@ -69,7 +69,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 - **Second Prize**, National Mathematical Modeling Competition, 2018 & 2019  
 
 
-# 💻 Internship  
+# 💻 Internships  
 - *2022.03 - 2024.03*, MATLAB Ambassador, MathWorks. 
 - *2021.03 - 2021.06*, NLP Research Intern, Ping An Technology.
 
