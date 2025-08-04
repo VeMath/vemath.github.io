@@ -70,6 +70,7 @@ I am a PhD candidate in Computational Mathematics at Fudan University, supervise
 
 
 # 💻 Internships  
+- *2025.06 - now*, LLM research Intern (Reinforcement Learning), Ant Group(Plan A - Talent Programme).
 - *2022.03 - 2024.03*, MATLAB Ambassador, MathWorks. 
 - *2021.03 - 2021.06*, NLP Research Intern, Ping An Technology.
 
